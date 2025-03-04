@@ -13,7 +13,7 @@ git clone https://github.com/AryanShakya/FrostBite.git
 ## Usage
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 and then run the main.py
 
